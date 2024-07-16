@@ -1,0 +1,8 @@
+pip install llama-parse
+pip install llama-index-vector-stores-pinecone
+pip install llama-index-embeddings-huggingface
+pip install llama-index-llms-huggingface
+pip install pinecone
+pip install torchvision
+pip install huggingface_hub
+pip install pinecone-client
